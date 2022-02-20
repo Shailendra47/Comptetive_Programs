@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val rows = 4
     var number = 1
 
